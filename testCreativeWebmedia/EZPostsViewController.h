@@ -1,0 +1,6 @@
+
+
+@interface EZPostsViewController : UIViewController
+
+@end
+
